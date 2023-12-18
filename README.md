@@ -1,4 +1,4 @@
-#	Dejapy
+# Dejapy
 This project is concerned with developing a Panel application which provides similar functionality to [Dejavu from Appbase](https://github.com/appbaseio/dejavu).
 
 `dejavu` is the missing web UI for Elasticsearch and OpenSearch. Existing web UIs leave much to be desired or are built with server-side page rendering techniques that make it less responsive and bulkier to run.
@@ -13,5 +13,5 @@ The intent is to open source the project. The protoyping will help in presenting
 # Using Github
 The following tabs in Github are important:
 
-- **Code**: The web application with the Python and other files organised to optimise programming, testing and deployment. We avoid putting files into the repo which cannot be easily version controlled e.g. Jupyter Notebooks (.ipynb), Drawio, PDF etc.
-- **Wiki**: To capture requirements (either in use cases) or specification by example. To organise the project (stage plans, C4 models, UML, tools etc). To present candidate designs and mock ups.
+- **Code**: The `dejapy` web application and associated files. The focus is on working code. Therefore, we avoid putting files into the repo which cannot be easily version controlled e.g. Jupyter Notebooks, Drawio, PDF.
+- **Wiki**: To capture requirements (either in use cases) or specification by example and to generally organise the project.
